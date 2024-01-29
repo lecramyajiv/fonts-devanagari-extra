@@ -1,0 +1,30 @@
+fonts-aksharyogini2 (1.0-3) unstable; urgency=low
+
+  * Team upload.
+  * debian/control:
+    + Updated Standards-Version to 4.6.2
+    + Bumped dh to 13.
+  * Updated debian/copyright.
+  * Updated dummy debian/watch.
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 22 Nov 2023 12:25:15 +0530
+
+fonts-aksharyogini2 (1.0-2) unstable; urgency=low
+
+  * Team upload.
+  * debian/control:
+    + Set Maintainer to Debian Fonts Task Force.
+    + Updated Standards-Version to 4.5.0
+    + Switched to debhelper-compat.
+    + Updated Vcs-* URLs.
+    + Updated Homepage.
+    + Added 'Rules-Requires-Root' field.
+  * Added debian/gitlab-ci.yml file.
+
+ -- Kartik Mistry <kartik@debian.org>  Sun, 12 Apr 2020 22:00:32 +0530
+
+fonts-aksharyogini2 (1.0-1) unstable; urgency=low
+
+  * Initial release. (Closes: #770058)
+
+ -- Balasankar C <balasankarc@autistici.org>  Sun, 16 Nov 2014 16:20:09 +0530
