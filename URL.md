@@ -10,6 +10,10 @@
 8. Ektype [Baloo2](https://github.com/EkType/Baloo2)
 9. Android [Droid Devanagari](https://android.googlesource.com/)
 10. Googlefonts [Tiro](https://github.com/TiroTypeworks/Indigo)
+11.  Itfoundry [Poppins](https://github.com/itfoundry/Poppins)
+12.  Itfoundry [Teko](https://github.com/itfoundry/teko/)
+13.  Itfoundry [Kalam](https://github.com/itfoundry/kalam)
+14.  Itfoundry [Hind](https://github.com/itfoundry/hind)
 
 
 # Download URL of Fonts
@@ -24,5 +28,9 @@
 8. [Mukta Devanagari](https://github.com/EkType/Mukta/releases/download/2.538/Mukta.Font.Family.2.538.zip)
 9. [Anek](https://github.com/EkType/Anek/releases/download/1.000/Ek-Type-Anek-Variable-1.002.zip)
 10. [Baloo2](https://github.com/EkType/Baloo2/releases/download/1.640/Baloo2_1.640.zip)
-11. [Droid Devanagari](https://koji.fedoraproject.org/koji/packageinfo?packageID=7475)
+11.  [Droid Devanagari](https://kojipkgs.fedoraproject.org//packages/google-droid-fonts/20200215/19.fc40/src/google-droid-fonts-20200215-19.fc40.src.rpm)
 12. [Tiro](https://github.com/TiroTypeworks/Indigo/archive/c5f23cb/Indigo-c5f23cb.tar.gz)
+13. [Poppins](https://github.com/itfoundry/Poppins/archive/v4.003/Poppins-v4.003.tar.gz)
+14. [Teko](https://github.com/googlefonts/teko/archive/2bf909d/teko-2bf909d.tar.gz)
+15. [Kalam](https://github.com/itfoundry/kalam/archive/v2.001/kalam-v2.001.tar.gz)
+16. [Hind](https://github.com/itfoundry/hind/archive/v2.000/hind-v2.000.tar.gz)
