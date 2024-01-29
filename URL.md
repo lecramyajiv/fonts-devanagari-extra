@@ -5,6 +5,12 @@
 3. MarathiVikasSanstha [Yashomudra](https://github.com/RajyaMarathiVikasSanstha/Yashomudra/)
 4. MarathiVikasSanstha [Yashovenu](https://github.com/RajyaMarathiVikasSanstha/Yashovenu)
 5. IIT Bombay [Shobika](https://github.com/Sandhi-IITBombay/Shobhika)
+6. Ektype [Mukta Devanagari](https://github.com/EkType/Mukta/)
+7. Ektype [Anek](https://github.com/EkType/Anek)
+8. Ektype [Baloo2](https://github.com/EkType/Baloo2)
+9. Android [Droid Devanagari](https://android.googlesource.com/)
+10. Googlefonts [Tiro](https://github.com/TiroTypeworks/Indigo)
+
 
 # Download URL of Fonts
 
@@ -15,3 +21,8 @@
 5. [Yashomudra](https://github.com/RajyaMarathiVikasSanstha/Yashomudra/releases/download/2.0/Yashomudra_release_2.00.zip)
 6. [Yashovenu](https://github.com/RajyaMarathiVikasSanstha/Yashovenu/releases/download/2.01/Yashovenu_release_2.01.zip)
 7. [Shobika](https://github.com/Sandhi-IITBombay/Shobhika/releases/download/v1.05/Shobhika-1.05.zip)
+8. [Mukta Devanagari](https://github.com/EkType/Mukta/releases/download/2.538/Mukta.Font.Family.2.538.zip)
+9. [Anek](https://github.com/EkType/Anek/releases/download/1.000/Ek-Type-Anek-Variable-1.002.zip)
+10. [Baloo2](https://github.com/EkType/Baloo2/releases/download/1.640/Baloo2_1.640.zip)
+11. [Droid Devanagari](https://koji.fedoraproject.org/koji/packageinfo?packageID=7475)
+12. [Tiro](https://github.com/TiroTypeworks/Indigo/archive/c5f23cb/Indigo-c5f23cb.tar.gz)
