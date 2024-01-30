@@ -15,6 +15,12 @@
 13. Itfoundry [Kalam](https://github.com/itfoundry/kalam)
 14. Itfoundry [Hind](https://github.com/itfoundry/hind)
 15. Itfoundry [Rajdhani](https://github.com/itfoundry/rajdhani)
+16. Itfoundry [Khand](https://github.com/itfoundry/khand)
+17. Itfoundry [Rozhaone](https://github.com/itfoundry/rozhaone)
+18. Itfoundry [Laila](https://github.com/itfoundry/laila)
+19. Itfoundry [Karma](https://github.com/itfoundry/karma)
+
+IBM [Plex](https://github.com/IBM/plex)
 
 # Download URL of Fonts
 
@@ -35,3 +41,11 @@
 15. [Kalam](https://github.com/itfoundry/kalam/archive/v2.001/kalam-v2.001.tar.gz)
 16. [Hind](https://github.com/itfoundry/hind/archive/v2.000/hind-v2.000.tar.gz)
 17. [Rajdhani](https://github.com/itfoundry/rajdhani/archive/v2.000/rajdhani-v2.000.tar.gz)
+18. [Khand](https://github.com/itfoundry/khand/archive/v2.000/khand-v2.000.tar.gz)
+19. [Rozhaone](https://github.com/itfoundry/rozhaone/archive/v2.000/rozhaone-v2.000.tar.gz)
+20. [Laila](https://github.com/itfoundry/laila/archive/v2.000/laila-v2.000.tar.gz)
+21. [Karma](https://github.com/itfoundry/karma/archive/v2.000/karma-v2.000.tar.gz)
+
+IBM [Plex-OTF](https://github.com/IBM/plex/releases/download/v6.4.0/OpenType.zip)
+IBM [Plex-TTF](https://github.com/IBM/plex/releases/download/v6.4.0/TrueType.zip)
+IBM [Plex-web](https://github.com/IBM/plex/releases/download/v6.4.0/Web.zip)
