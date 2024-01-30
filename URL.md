@@ -10,11 +10,11 @@
 8. Ektype [Baloo2](https://github.com/EkType/Baloo2)
 9. Android [Droid Devanagari](https://android.googlesource.com/)
 10. Googlefonts [Tiro](https://github.com/TiroTypeworks/Indigo)
-11.  Itfoundry [Poppins](https://github.com/itfoundry/Poppins)
-12.  Itfoundry [Teko](https://github.com/itfoundry/teko/)
-13.  Itfoundry [Kalam](https://github.com/itfoundry/kalam)
-14.  Itfoundry [Hind](https://github.com/itfoundry/hind)
-
+11. Itfoundry [Poppins](https://github.com/itfoundry/Poppins)
+12. Itfoundry [Teko](https://github.com/itfoundry/teko/)
+13. Itfoundry [Kalam](https://github.com/itfoundry/kalam)
+14. Itfoundry [Hind](https://github.com/itfoundry/hind)
+15. Itfoundry [Rajdhani](https://github.com/itfoundry/rajdhani)
 
 # Download URL of Fonts
 
@@ -34,3 +34,4 @@
 14. [Teko](https://github.com/googlefonts/teko/archive/2bf909d/teko-2bf909d.tar.gz)
 15. [Kalam](https://github.com/itfoundry/kalam/archive/v2.001/kalam-v2.001.tar.gz)
 16. [Hind](https://github.com/itfoundry/hind/archive/v2.000/hind-v2.000.tar.gz)
+17. [Rajdhani](https://github.com/itfoundry/rajdhani/archive/v2.000/rajdhani-v2.000.tar.gz)
