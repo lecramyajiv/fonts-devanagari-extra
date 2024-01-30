@@ -19,8 +19,13 @@
 17. Itfoundry [Rozhaone](https://github.com/itfoundry/rozhaone)
 18. Itfoundry [Laila](https://github.com/itfoundry/laila)
 19. Itfoundry [Karma](https://github.com/itfoundry/karma)
-
-IBM [Plex](https://github.com/IBM/plex)
+20. Itfoundry [Tillana](https://github.com/itfoundry/tillana)
+21. Itfoundry [Halant](https://github.com/itfoundry/halant)
+22. Itfoundry [Sarpanch](https://github.com/itfoundry/sarpanch)
+23. IBM [Plex](https://github.com/IBM/plex)
+24. Ektype [Jaini](https://github.com/EkType/Jaini)
+25. Ektype [Gotu](https://github.com/EkType/Gotu)
+26. Ektype [Modak](https://github.com/EkType/Modak)
 
 # Download URL of Fonts
 
@@ -45,7 +50,12 @@ IBM [Plex](https://github.com/IBM/plex)
 19. [Rozhaone](https://github.com/itfoundry/rozhaone/archive/v2.000/rozhaone-v2.000.tar.gz)
 20. [Laila](https://github.com/itfoundry/laila/archive/v2.000/laila-v2.000.tar.gz)
 21. [Karma](https://github.com/itfoundry/karma/archive/v2.000/karma-v2.000.tar.gz)
-
-IBM [Plex-OTF](https://github.com/IBM/plex/releases/download/v6.4.0/OpenType.zip)
-IBM [Plex-TTF](https://github.com/IBM/plex/releases/download/v6.4.0/TrueType.zip)
-IBM [Plex-web](https://github.com/IBM/plex/releases/download/v6.4.0/Web.zip)
+22. [Tillana](https://github.com/itfoundry/tillana/archive/v2.002/tillana-v2.002.tar.gz)
+23. [Halant](https://github.com/itfoundry/halant/archive/v2.000/halant-v2.000.tar.gz)
+24. [Sarpanch](https://github.com/itfoundry/sarpanch/archive/v2.000/sarpanch-v2.000.tar.gz)
+25. [Plex-OTF](https://github.com/IBM/plex/releases/download/v6.4.0/OpenType.zip)
+26. [Plex-TTF](https://github.com/IBM/plex/releases/download/v6.4.0/TrueType.zip)
+27. [Plex-web](https://github.com/IBM/plex/releases/download/v6.4.0/Web.zip)
+28. [Jaini](https://github.com/EkType/Jaini/releases/download/2.000/Jaini.2.000.zip)
+29. [Gotu](https://github.com/EkType/Gotu/releases/download/2.32/Gotu.2.320.zip)
+30. [Modak](https://github.com/EkType/Modak/releases/download/1.155/Modak.1.155.zip)
