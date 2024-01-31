@@ -41,6 +41,9 @@
 39. huertatupografica [Kadwa](https://github.com/huertatipografica/Kadwa)
 40. huertatupografica [Sahitya](https://github.com/huertatipografica/sahitya)
 41. huertatupografica [Sura](https://github.com/huertatipografica/sura)
+42. etunni [Amita](https://github.com/etunni/Amita)
+43. etunni [Kurale](https://github.com/etunni/kurale)
+44. etunni [Glegoo](https://github.com/etunni/glegoo)
 
 # Download URL of Fonts
 
@@ -89,3 +92,6 @@
 43. [Kadwa](https://github.com/huertatipografica/Kadwa/archive/80cfd83/Kadwa-80cfd83.tar.gz)
 44. [Sahitya](https://github.com/huertatipografica/sahitya/archive/c4b5b34/sahitya-c4b6b34.tar.gz)
 45. [Sura](https://github.com/huertatipografica/sura/archive/d20d15f/sura-d20d15f.tar.gz)
+46. [Amita](https://github.com/etunni/Amita/archive/92680c0/Amita-92680c0.tar.gz)
+47. [Kurale](https://github.com/etunni/kurale/archive/08bf768/kurale-08bf768.tar.gz)
+48. [Glegoo](https://github.com/etunni/glegoo/archive/a6b0a10/glegoo-a6b0a10.tar.gz)
