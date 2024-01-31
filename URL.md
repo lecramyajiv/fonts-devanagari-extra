@@ -55,7 +55,11 @@
 53. googlefonts [Babak](https://github.com/googlefonts/bakbak)
 54. Cyreal [Sumana](https://github.com/cyrealtype/Sumana)
 55. SorkinType [Asar](https://github.com/SorkinType/Asar-old)
-
+56. SorkinType [Dekko](https://github.com/SorkinType/Dekko)
+57. DunwichType  [Rhodium Libre](https://github.com/DunwichType/RhodiumLibre)
+58. xconsau [Gajraj](https://github.com/xconsau/GajrajOne)
+59. SIL [Annapurna](https://github.com/silnrsi/font-annapurna)
+60. 10four [Bhavuka](https://github.com/10four/Bhavuka)
 
 # Download URL of Fonts
 
@@ -118,3 +122,8 @@
 57. [Babak](https://github.com/googlefonts/bakbak/archive/b53b9c3/babak-b53b9c3.tar.gz)
 58. [Sumana](https://github.com/cyrealtype/Sumana/archive/68c5ce4/Sumana-68c5ce4.tar.gz)
 59. [Asar](https://github.com/SorkinType/Asar-old/archive/c2fe675/Asar-old-c2fe675.tar.gz)
+60. [Dekko](https://github.com/SorkinType/Dekko/archive/4887c14/Dekko-4887c14.tar.gz)
+61. [Rhodium Libre](https://github.com/DunwichType/RhodiumLibre/archive/c6e9dc9/RhodiumLibre-c6e9dc9.tar.gz)
+62. [Gajraj](https://github.com/xconsau/GajrajOne/archive/5768aa3/GajrajOne-5768aa3.tar.gz)
+63. [Annapurna](https://github.com/silnrsi/font-annapurna/releases/download/v2.000/AnnapurnaSIL-2.000.tar.xz)
+64. [Bhavuka](https://github.com/10four/Bhavuka/archive/e4819c2/Bhavuka-e4819c2.tar.gz)
