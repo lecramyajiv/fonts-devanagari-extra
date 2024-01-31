@@ -49,6 +49,12 @@
 47. Impallari [Amiko](https://github.com/impallari/Amiko-Devanagari)
 48. anexasajoop [Cambay](https://github.com/anexasajoop/cambay)
 49. antonxheight [Ranga](https://github.com/antonxheight/Ranga)
+50. antonxheight [appu](https://github.com/antonxheight/Appu)
+51. antonxheight [Orav](https://github.com/antonxheight/Orav)
+52. Clauseggers [Inknut-antiqua](https://github.com/clauseggers/Inknut-Antiqua)
+53. googlefonts [Babak](https://github.com/googlefonts/bakbak)
+54. Cyreal [Sumana](https://github.com/cyrealtype/Sumana)
+55. SorkinType [Asar](https://github.com/SorkinType/Asar-old)
 
 
 # Download URL of Fonts
@@ -105,3 +111,10 @@
 50. [Arya](https://github.com/etunni/Arya/archive/103dc78/Arya-103dc78.tar.gz)
 51. [Amiko](https://github.com/impallari/Amiko-Devanagari/archive/069f510/Amiko-Devanagari-069f510.tar.gz)
 52. [Cambay](https://github.com/anexasajoop/cambay/archive/a8d3e6a/cambay-a8d3e6a.tar.gz)
+53. [Ranga](https://github.com/antonxheight/Ranga/archive/15fadcc/Ranga-15fadcc.tar.gz)
+54. [Appu](https://github.com/antonxheight/Appu/archive/b30cb42/Appu-b30cb42.tar.gz)
+55. [Orav](https://github.com/antonxheight/Orav/archive/1e694ef/Orav-1e694ef.tar.gz)
+56. [Inknut-antiqua](https://github.com/clauseggers/Inknut-Antiqua/archive/9db4a5c/Inknut-Antiqua-9db4a5c.tar.gz)
+57. [Babak](https://github.com/googlefonts/bakbak/archive/b53b9c3/babak-b53b9c3.tar.gz)
+58. [Sumana](https://github.com/cyrealtype/Sumana/archive/68c5ce4/Sumana-68c5ce4.tar.gz)
+59. [Asar](https://github.com/SorkinType/Asar-old/archive/c2fe675/Asar-old-c2fe675.tar.gz)
