@@ -36,6 +36,11 @@
 34. cathschmidt [Yatra One](https://github.com/cathschmidt/yatra-one)
 35. Vanillaandcream [Palanquin](https://github.com/VanillaandCream/Palanquin)
 36. Omnibus-type [Pragati](https://github.com/Omnibus-Type/PragatiNarrow)
+37. Omnibus-type [Jaldi](https://github.com/Omnibus-Type/Jaldi)
+38. huertatupografica [sarala](https://github.com/huertatipografica/sarala)
+39. huertatupografica [Kadwa](https://github.com/huertatipografica/Kadwa)
+40. huertatupografica [Sahitya](https://github.com/huertatipografica/sahitya)
+41. huertatupografica [Sura](https://github.com/huertatipografica/sura)
 
 # Download URL of Fonts
 
@@ -79,3 +84,8 @@
 38. [Yatra One](https://github.com/cathschmidt/yatra-one/archive/b991e49/yatra-one-b991e49.tar.gz)
 39. [Palanquin](https://github.com/VanillaandCream/Palanquin/archive/f912925/Palanquin-f912925.tar.gz)
 40. [Pragati](https://github.com/Omnibus-Type/PragatiNarrow/archive/829be32/PragatiNarrow-829be32.tar.gz)
+41. [Jaldi](https://github.com/Omnibus-Type/Jaldi/archive/1331545/Jaldi-1331545.tar.gz)
+42. [Sarala](https://github.com/huertatipografica/sarala/archive/7779e0c/sarala-7779e0c.tar.gz)
+43. [Kadwa](https://github.com/huertatipografica/Kadwa/archive/80cfd83/Kadwa-80cfd83.tar.gz)
+44. [Sahitya](https://github.com/huertatipografica/sahitya/archive/c4b5b34/sahitya-c4b6b34.tar.gz)
+45. [Sura](https://github.com/huertatipografica/sura/archive/d20d15f/sura-d20d15f.tar.gz)
