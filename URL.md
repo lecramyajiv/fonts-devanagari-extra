@@ -44,6 +44,12 @@
 42. etunni [Amita](https://github.com/etunni/Amita)
 43. etunni [Kurale](https://github.com/etunni/kurale)
 44. etunni [Glegoo](https://github.com/etunni/glegoo)
+45. Tallchai [Akshar-type](https://github.com/tallchai/akshar-type)
+46. etunni [Arya](https://github.com/etunni/Arya)
+47. Impallari [Amiko](https://github.com/impallari/Amiko-Devanagari)
+48. anexasajoop [Cambay](https://github.com/anexasajoop/cambay)
+49. antonxheight [Ranga](https://github.com/antonxheight/Ranga)
+
 
 # Download URL of Fonts
 
@@ -95,3 +101,7 @@
 46. [Amita](https://github.com/etunni/Amita/archive/92680c0/Amita-92680c0.tar.gz)
 47. [Kurale](https://github.com/etunni/kurale/archive/08bf768/kurale-08bf768.tar.gz)
 48. [Glegoo](https://github.com/etunni/glegoo/archive/a6b0a10/glegoo-a6b0a10.tar.gz)
+49. [Akshar-type](https://github.com/tallchai/akshar-type/archive/703a8e5/akshar-type-703a8e5.tar.gz)
+50. [Arya](https://github.com/etunni/Arya/archive/103dc78/Arya-103dc78.tar.gz)
+51. [Amiko](https://github.com/impallari/Amiko-Devanagari/archive/069f510/Amiko-Devanagari-069f510.tar.gz)
+52. [Cambay](https://github.com/anexasajoop/cambay/archive/a8d3e6a/cambay-a8d3e6a.tar.gz)

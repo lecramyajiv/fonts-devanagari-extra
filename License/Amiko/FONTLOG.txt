@@ -1,0 +1,131 @@
+FONTLOG for the Amiko fonts
+
+This file provides detailed information on the Amiko Font Software.
+
+This information should be distributed along with the Amiko fonts and any
+derivative works.
+
+Basic Font Information
+
+Amiko is a clean and utilitarian Devanagari and Latin typeface family, 
+specifically designed for maximum legibility at the smallest possible 
+text sizes. It is intended for body text on the web and low resolution 
+screens. It was designed in a studio collaboration by Pablo Impallari, 
+Rodrigo Fuenzalida and Andres Torresi.
+
+Thank you to Pria Ravichandran, Erin McLaughlin, Girish Dalvi, 
+Dan Reynolds and all those who have shared their knowledge and 
+helped with reviews to improve Amiko.
+
+The Amiko project is led by Impallari Type, a type design foundry based 
+in Rosario, Argentina. To contribute, see 
+https://github.com/impallari/Amiko-Devanagari
+
+11 Aug 2015 (Pablo Impallari, Rodrigo Fuenzalida, Andres Torresi) Amiko v1.000
+- Initial v1 Release
+- Renamed from Amika to Amiko
+
+28 May 2015 (Pablo Impallari, Rodrigo Fuenzalida) Amika v0.048
+- Migration from FL to Glyphs in progress…
+
+8 August 2014 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.036 and Bold v0.018
+- Latin: Completed AL3 in Regular and Bold, multiple tweaks
+- Deva Added in Regular and Bold:
+/ghadeva /dhadeva /chadeva /shadeva /lladeva /llladeva /uedeva /uuedeva
+- Deva Tweaked in Regular and Bold:
+/nadeva /radeva /rradeva /sadeva /tadeva /kadeva /qadeva /phadeva /fadeva /ttadeva /ddadeva /adeva
+
+25 July 2014 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.029 and Bold v0.011
+- Increased Vertical Metrics 
+- Latin glyphs 90% completed
+- Lot of twearks to existing glyphs, both Latin and Devanagari
+- Added devanagari glyphs:
+osigndeva ausigndeva oshortsigndeva awsigndeva ocandrasigndeva
+adeva aadeva acandradeva
+ashortdeva audeva awdeva odeva oedeva ooedeva oshortdeva
+aideva ecandradeva eshortdeva ocandradeva
+bbadeva dddadeva ggadeva jjadeva
+khadeva khhadeva
+
+18 July 2014 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.017 and Bold v0.010
+Regular:
+- Added /B /C /G /J /K /M /P /Q /R /S /W /X /Y /Z /b /c /f /g /j /k /q /r /s /t /w /x /y /z
+- Added /cadeva /zhadeva
+- Tweaked /J /U /W /B /C /G /I /K /S /Z /a /e /g /s /x /z /q /x /y /z /v
+- Tweaked /ddadeva /dddhadeva /ddhadeva /zadeva /rhadeva /yyadeva /jadeva
+Bold:
+- We now have the same glyph in both weigths!
+- Added /B /C /G /J /K /M /P /Q /R /S /W /Z /b /c /f /g /j /k /q /r /s /t /w
+- Tweaked /G /B /I /Z /i /v /x /y /z 
+
+11 July 2014 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.012 and Amika Bold v0.007
+Regular:
+- Added /nnnadeva /ghhadeva /rhadeva /ddhadeva 
+/fadeva /rradeva /yyadeva /qadeva /zadeva
+/edeva /jadeva /nyadeva
+/ooesigndeva /eprishthamatrasigndeva
+Bold:
+- Tweaked /badeva/kadeva/ladeva/qadeva
+- Added /madeva /nadeva /nnadeva /nnnadeva /nyadeva
+/ooesigndeva /padeva /phadeva /qadeva /radeva /rradeva
+/sadeva /ssadeva /tadeva /thadeva /ttadeva /tthadeva
+/vadeva /yadeva /yaheavydeva /yyadeva
+/aasigndeva /badeva /bhadeva /dadeva /danda /dbldanda
+/ddadeva /dddhadeva /ddhadeva /dottedcircle /edeva 
+/eprishthamatrasigndeva /fadeva /gadeva /ghhadeva /hadeva
+/ideva /iideva /iisigndeva /isigndeva /jadeva /jhadeva
+/kadeva /ladeva /ngadeva /qadeva /rhadeva /zadeva
+
+9 July 2014 (Pablo Impallari, Rodrigo Fuenzalida) Amika Regular v0.011 and Bold v0.003:
+Regular:
+- Multiple improvements based on Erin McLaughlin feedback
+- Added /A /a
+- Added /iideva /isigndeva /iisigndeva /sadeva /jhadeva /ngadeva 
+/thadeva /ladeva /ttadeva /dadeva /ddhadeva /tthadeva /yaheavydeva 
+/dottedcircle /danda /dbldanda
+Bold:
+- Tweaked: /h /i /m /n /u.
+- Started to work on the Latin Uppercase.
+
+8 July 2014 (Rodrigo Fuenzalida) Amika Bold v0.002:
+- Started the work on the latin characters for the Bold weight. 
+
+7 July 2014 (Pablo Impallari) Amika v007:
+- Improvements based on feedback by Pria Ravichandran
+- /bhadeva and /madeva: Horizontal moved down
+- /nadeva and /gadeva: reworked knots for consistency
+- /hadeva, /ddadeva and /ideva: wider, bigger knot
+- /yadeva: Smaller counter
+
+2 July 2014 (Pablo Impallari) Amika v0.004
+- Added a few initial glyphs
+- Refining the existing ones
+
+30 June 2014 (Pablo Impallari) Amika v0.003
+- Added a few initial glyphs
+- Refining the existing ones
+
+28 June 2014 (Pablo Impallari) Amika v0.001
+- Initial Beta
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Pablo Impallari
+E: impallari@gmail.com
+W: http://www.impallari.com
+D: Designer
+
+N: Rodrigo Fuenzalida
+E: fuenzarodrigo@gmail.com
+W: http://www.impallari.com
+D: Designer
+
+N: Andres Torresi
+E: andres@huertatipografica.com.ar
+W: http://www.huertatipografica.com.ar
+D: Designer
+
