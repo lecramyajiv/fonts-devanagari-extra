@@ -1,7 +1,7 @@
 # fonts-devanagari-extra
 
 Devanāgarī or Devanagari also called Nāgari is a left-to-right abugida  based on the ancient Brāhmi script,
-used in the northern Indian subcontinent. It is one of the official scripts of the 
+used in the Indian subcontinent. It is one of the official scripts of the 
 Republic of India and Nepal. The Devanāgari script is the fourth most widely adopted writing system 
 in the world,being used for over 120 languages.
 
