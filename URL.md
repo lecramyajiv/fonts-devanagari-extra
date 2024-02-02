@@ -52,7 +52,7 @@
 50. antonxheight [appu](https://github.com/antonxheight/Appu)
 51. antonxheight [Orav](https://github.com/antonxheight/Orav)
 52. Clauseggers [Inknut-antiqua](https://github.com/clauseggers/Inknut-Antiqua)
-53. googlefonts [Babak](https://github.com/googlefonts/bakbak)
+53. googlefonts [Bakbak](https://github.com/googlefonts/bakbak)
 54. Cyreal [Sumana](https://github.com/cyrealtype/Sumana)
 55. SorkinType [Asar](https://github.com/SorkinType/Asar-old)
 56. SorkinType [Dekko](https://github.com/SorkinType/Dekko)
